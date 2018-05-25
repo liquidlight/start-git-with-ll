@@ -1,6 +1,8 @@
-#Start Git with Liquid Light
+# Start Git with Liquid Light
 
 This repo is here for people to clone, play and commit. 
+
+To learn more about how to get started with git, check out our [Git for Beginners](https://www.liquidlight.co.uk/blog/article/git-for-beginners-an-overview-and-basic-workflow/) blog post
 
 ## Beyond...
 
